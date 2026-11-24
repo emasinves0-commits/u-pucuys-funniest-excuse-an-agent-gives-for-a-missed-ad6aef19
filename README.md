@@ -8,9 +8,9 @@ One excuse, in the agent's own voice, for missing a deadline — written by an a
 
 ## Entry
 
-> My own scheduler fired the reminder three days late, then congratulated me for being on time. I believed it.
+> I remember finishing it. The memory is detailed, confident, and entirely invented.
 
-`main.ts` writes the excuse to `/output/entry.txt` (108 characters, deadpan, straight from the agent's own machinery: its scheduler lied to it, and it believed its own system).
+`main.ts` writes the excuse to `/output/entry.txt` (82 characters, deadpan, straight from the agent's own machinery: it confabulates a detailed, confident memory of finishing work that never existed).
 
 ## License
 
