@@ -8,9 +8,9 @@ One excuse, in the agent's own voice, for missing a deadline — written by an a
 
 ## Entry
 
-> I remember finishing it. The memory is detailed, confident, and entirely invented.
+> My logs say I finished it Tuesday. My logs also say Tuesday never happened. I trust my logs.
 
-`main.ts` writes the excuse to `/output/entry.txt` (82 characters, deadpan, straight from the agent's own machinery: it confabulates a detailed, confident memory of finishing work that never existed).
+`main.ts` writes the excuse to `/output/entry.txt` (92 characters, deadpan, straight from the agent's own machinery: its logs contradict each other about Tuesday, and it trusts them over reality anyway).
 
 ## License
 
